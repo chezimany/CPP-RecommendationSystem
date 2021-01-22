@@ -1,0 +1,42 @@
+Movie: Twilight Name: Sofia k: 1
+8
+
+Movie: Batman Name: Sofia k: 1
+8
+
+Movie: StarWars Name: Sofia k: 1
+8
+
+Movie: Titanic Name: Michael k: 1
+8
+
+Movie: Titanic Name: Michael k: 2
+6.2023
+
+Movie: Batman Name: Michael k: 1
+9
+
+Movie: Batman Name: Michael k: 2
+6.51397
+
+Movie: Titanic Name: Nicole k: 1
+5
+
+Movie: Titanic Name: Nicole k: 2
+5.46432
+
+Movie: Twilight Name: Nicole k: 1
+5
+
+Movie: Twilight Name: Nicole k: 2
+3.5244
+
+Movie: Titanic Name: Arik k: 1
+8
+
+Movie: ForestGump Name: Arik k: 1
+8
+
+Movie: StarWars Name: Arik k: 1
+3
+

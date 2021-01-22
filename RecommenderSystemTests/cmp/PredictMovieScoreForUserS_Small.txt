@@ -1,0 +1,42 @@
+Movie: Fargo Name: Christopher k: 1
+1
+
+Movie: Fargo Name: Christopher k: 2
+1
+
+Movie: ArabianNights Name: Christopher k: 1
+1
+
+Movie: ArabianNights Name: Christopher k: 2
+1
+
+Movie: ArabianNights Name: London k: 1
+3
+
+Movie: Shadows Name: London k: 1
+3
+
+Movie: AAmericaninParisn Name: London k: 1
+3
+
+Movie: ArabianNights Name: Randy k: 1
+8
+
+Movie: Shadows Name: Randy k: 1
+8
+
+Movie: AAmericaninParisn Name: Randy k: 1
+8
+
+Movie: ArabianNights Name: Brayson k: 1
+8
+
+Movie: ArabianNights Name: Brayson k: 2
+5.12967
+
+Movie: Shadows Name: Brayson k: 1
+8
+
+Movie: Shadows Name: Brayson k: 2
+5.0745
+
